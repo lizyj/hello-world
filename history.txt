@@ -1,0 +1,16 @@
+  248  git status
+  249  git commit -m "added reading sched"
+  250  git status
+  251  git push -u origin main
+  252  git status
+  253  git status
+  254  git add . 
+  255  git status
+  256  git commit -m "reading sched updated"
+  257  git status
+  258  git push -u origin main
+  259  ls -la
+  260  history -w ~/history.txt
+  261  history > ~/history.txt
+  262  ls -la
+  263  history > /history.txt
